@@ -1,2 +1,21 @@
-# mini-library-management-system
-A simple C++ mini project using arrays and linear search that allows users to add, search, issue, return, and display books in a library system.
+
+# Mini Library Management System
+
+This is a simple C++ project using **Arrays + Searching**.
+
+## Features
+- Add Books
+- Search Book by Name
+- Issue Book
+- Return Book
+- Display All Books
+
+## Technologies Used
+- C++
+- Array Data Structure
+- Linear Search
+
+
+
+## Author
+Anjali Namdeo 
